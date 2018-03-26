@@ -1,3 +1,5 @@
+'use strict';
+
 window.onload = function () {
   // game constants
   const KEY_LEFT = 37;
